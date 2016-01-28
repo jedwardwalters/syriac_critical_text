@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Excerpts of Aphrahat's Demonstration 6 in the Writings of Abraham of Nathpar: A
+               Critical Edition</title>
+            <author>Aphrahat, the Persian Sage</author>
+            <author>Abraham of Nathpar</author>
+            <respStmt>
+               <resp>Transcription and text comparison by</resp>
+               <name>James E. Walters</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Two unpublished manuscripts provide the basis for this critical edition: British
+               Library Oriental 6714 and Mingana Syr. 601</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B">British Library Oriental 6714 <bibl>A. Mingana, Catalogue of the
+                     Mingana Collection of Manuscripts, Vol. I: Syriac and Garshūni Manuscripts
+                     (Cambridge: Heffer and Sons, 1933), entry 601, cols. 1146-1153</bibl>
+               </witness>
+               <witness xml:id="M">Mingana Syr 601 <bibl>F. Nau, "La seconde partie de L'histoire de
+                     Barhadbesabba Àrbaïa," Patrologia Orientalis 9, fasc. V (Paris: Firmin-Didot,
+                     1913)</bibl>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>An Excerpt from the Writings of Abraham of Nathpar: A Critical Edition</p>
+         <p> ܡܢ ܩܕܡ ܟܠ ܡܕܡ 
+            <app>
+               <rdg wit="#M">ܗܟܝܠ</rdg>
+               <rdg wit="#B">om.</rdg>
+            </app> 
+            ܝܐܐ ܠܗ ܠܐܝܢܐ ܕܢܝܪܗ ܕܡܫܝܚܐ ܣܝܡ ܥܠܘܗܝ܆ ܕܗܝܡܢܘܬܗ 
+            <app>
+               <rdg wit="#M">ܬܗܘܐ</rdg>
+               <rdg wit="#B">ܢܗܘܐ</rdg>
+            </app>
+            ܫܪܝܪܐ. ܘܢܗܘܐ ܚܦܝܛ
+            ܒܨܘܡܐ ܘܒܨܠܘܬܐ. ܘܢܗܘܐ ܪܬܚ ܒܚܘܒܗ ܕܡܫܝܚܐ. ܘܢܗܘܐ ܡܟܝܟ ܘܪܡܝܣ ܘܡܗܘܢ. ܘܬܗܘܐ ܡܠܬܗ 
+            <app>
+               <rdg wit="#M">ܬܪܚܨܐ ܘܒܣܝܡܐ.</rdg>
+               <rdg wit="#B">ܢܚܝܐ ܘܒܗ ܝܡܐ.</rdg>
+            </app>            
+            ܘܢܗܘܐ ܫܦܐ ܪܥܝܢܗ ܥܡ ܟܠܢܫ
+            . ܘܢܗܘܐ ܡܡܠܠ ܡܠܘ̈ܗܝ ܒܡܬܩܠܐ ܘܢܥܒܕ ܣܝܓܐ ܠܦܘܡܗ ܡܢ ܡ̈ܠܐ ܡܣܓܦܢ̈ܝܬܐ.
+            ܘܢܪܚܩ ܡܢܗ ܓܘܚܟܐ ܡܣܪܗܒܐ. 
+            <app>
+               <rdg wit="#M">ܘܠܐ</rdg>
+               <rdg wit="#B">ܘܠܐ ܘܠܐ</rdg>
+               <note>The reading in B occurs over a line break, and the first one is faint--may show signs of erasure.</note>
+            </app>
+            <app>
+               <rdg wit="#M">ܢܪܓ</rdg>
+               <rdg wit="#B">ܢܙܚܡ</rdg>
+            </app>
+            ܡܨܒܬܘܬܐ ܕܢܚ̈ܬܐ. ܘܠܐ ܬܘܒ ܣܥܪܗ 
+            <app>
+               <rdg wit="#M">ܘܠܐ ܕܢܪ̈ܒܐ.</rdg>
+               <rdg wit="#B">ܘܠܐ ܠܗ ܕܢܪ̈ܒܐ.</rdg>
+            </app>
+            ܘܠܐ ܡܫܚܢ̈ܐ
+            ܪ̈ܚܝܬܢܐ ܝܐܐ ܠܗ ܠܡܡܫܚ. ܘܠܐ ܒܡܫܬܘܬܐ ܢܗܘܐ ܡܣܬܡܟ. ܘܠܐ ܢܚ̈ܬܐ ܡܨܒ̈ܬܐ ܙܕܩ ܠܗ ܠܡܠܒܫ. ܘܠܐ ܥܠ ܚܡܪܐ
+            ܢܥܒܪ : ܘܢܪܚܩ ܡܢܗ ܪܥܝܢܐ ܪܡܐ. ܘܠܐ 
+            <app>
+               <rdg wit="#M">ܢܚ̈ܬܐ</rdg>
+               <rdg wit="#B">ܚܬܢܐ</rdg>
+            </app>
+            ܡܨܒ̈ܬܐ ܙܕܩ ܠܗ ܠܡܚܙܐ. ܘܢܦܪܩ ܡܢܗ ܠܫܢܐ ܕܢܟܠܐ. ܘܢܥܒܪ
+            ܡܢܗ ܛܢܢܐ ܘܚܪܝܢܐ. ܘܢܫܕܐ ܡܢܗ ܣ̈ܦܘܬܐ ܕܢܟܠܐ. ܘܡ̈ܠܐ ܕܡܬܐܡܪ̈ܢ ܥܠ ܐܢܫ. ܟܕ ܗܿܘ ܕܡܬܐܡܪ̈ܢ ܥܠܘܗܝ ܠܐ
+            ܩܪܝܒ܆ ܠܐ ܢܫܡܥ ܐܦܠܐ ܢܥܩܒ. ܡܡܝܩܢܘܬܐ ܡܘܬܐ ܗܼܝ ܣܢܝܐ. ܘܠܡܣܩܘ ܥܠ 
+            <app>
+               <rdg wit="#M">ܠܒܐ</rdg>
+               <rdg wit="#B">ܒܠܐ</rdg>
+            </app>
+            ܠܐ ܘܠܝܐ. ܘܠܐ ܢܗܘܐ ܡܘܙܦ
+            ܘܫܩܠ ܪܒܝܬܐ. ܘܠܐ ܢܪܚܡ ܝܥܢܘܬܐ. ܢܬܥܠܒ ܘܠܐ ܢܥܠܘܒ. ܘܢܪܚܩ ܡܢܗ ܫܓܝܫܘܬܐ. ܘܡ̈ܠܐ ܕܫܥܝܐ ܘܠܐ ܢܐܡܪ.
+            ܘܠܐ ܢܒܙܚ 
+            <app>
+               <rdg wit="#M">ܒܒܪܢܫܐ</rdg>
+               <rdg wit="#B">ܒܒܪ ܐܢܫܐ</rdg>
+            </app>
+            ܕܬܐܒ ܡܢ ܚܛܗܘ̈ܗܝ. ܘܠܐ ܢܡܝܩ ܒܐܚܘܗܝ ܕܨܐܡ. ܘܠܡܢ ܕܠܐ ܡܫܟܚ 
+            <app>
+               <rdg wit="#M">ܕܨܐܡ</rdg>
+               <rdg wit="#B">ܪܢܨܘܡ</rdg>
+            </app>
+            ܠܐ ܢܒܗܬ. ܐܬܪ
+            ܕܡܬܩܒܠ ܢܟܣ. 
+            <app>
+               <rdg wit="#M">ܘܒܐܬܪ</rdg>
+               <rdg wit="#B">ܘܐܬܪ</rdg>
+            </app>
+            ܕܠܐ ܡܩܒܠܝܢ ܠܗ ܢܕܥ ܢܦܫܗ. ܒܥܕܢܐ ܕܡܬܩܒܠܐ ܡܠܬܗ ܢܡܠܠ. ܘܐܢ ܕܝܢ ܠܐ ܒܫܬܩܐ
+            ܢܗܘܐ. ܘܡܛܠ ܟܪܣܗ ܠܐ ܢܒܣܪ ܢܦܫܗ ܒܫ̈ܐܠܬܗ. ܘܠܡܢ ܕܕܚܠ ܠܐܠܗܐ ܢܓܠܐ ܐܪܙܗ. ܘܡܢ ܒܝܫܐ ܢܙܕܗܪ. ܘܒܬܪ
+            <app>
+               <rdg wit="#M">ܐܢܫ ܕܒܝܫ</rdg>
+               <rdg wit="#B">ܐܢܫ ܡܕܡ ܕܒܝܫ</rdg>
+            </app>
+            ܠܐ ܢܐܡܪ. ܘܐܦܠܐ ܒܬܪ ܣܢܐܗ. ܘܗܟܢܐ ܢܬܦܪܣ܆ ܕܠܓܡܪ ܣܢܐܐ ܠܐ ܢܗܘܐ ܠܗ. ܘܟܕ ܒܕ ܫܦܝܪ ܛܥܝܢ ܒܗ:
+            ܢܘܣܦ ܗܘ ܥܠ ܫܦܝܪ̈ܬܗ : ܘܡܛܠ ܜܢܢܗ ܠܐ ܢܣܬܓܦ. ܘܟܕ ܐܝܬ ܠܗ ܘܝܗܒ ܠܡܣܟܢ̈ܐ 
+            <app>
+               <rdg wit="#M">ܚܕܐ.</rdg>
+               <rdg wit="#B">ܢܚܕܐ.</rdg>
+            </app>            
+            ܘܟܕ ܠܝܬ ܠܗ ܠܐ ܬܟܪܐ
+            ܠܗ. ܘܥܡ ܒܪܢܫܐ ܒܝܫܐ ܠܐ ܢܗܘܐ ܥܢܝܢܗ. ܘܥܡ ܓܒܪܐ ܡܨܥܪܢܐ ܠܐ ܢܡܠܠ. ܕܠܐ ܢܬܠ ܢܦܫܗ ܠܨܥܪܐ. ܘܥܡ ܓܒܪܐ
+            ܡܓܕܦܢܐ ܠܐ ܢܕܪܘܫ. ܕܠܐ ܢܨܛܚܐ ܡܪܗ ܡܛܠܬܗ. ܘܡܢ ܡܐܟܠ ܩܪܨܐ ܢܗܘܐ ܪܚܝܩ. ܘܠܐ ܢܫܬܦܪ ܠܒܪܢܫܐ
+            ܒܫܘܦܪܢܘܬܐ ܕܡ̈ܠܐ. ܗܠܝܢ ܝܐ̈ܝܢ ܠܝܚܝܕܝ̈ܐ : ܐܝܠܝܢ ܕܡܩܒܠܝܢ ܢܝܪܐ ܕܡܫܝܚܐ ܘܗܘܝܢ ܬܝܒ̈ܐ܆ ܗܟܢܐ ܕܝܢ
+            ܝܐܐ ܠܗܘܢ ܕܢܬܕܡܘܢ ܠܪܒܗܘܢ. ܕܟܕ ܥܬܝܪܐ ܗܘܐ ܡܣܟܢ ܢܦܫܗ. ܘܟܕ ܪܡܐ ܗܘܐ ܐܡܟ ܢܦܫܗ. [ܘܟܕ ܕܝܠܗ ܫܡܝܐ
+            ܘܐܪܥܐ܆ ܠܝܬ ܗܘܐ ܠܗ ܐܝܟܐ ܕܢܣܡܘܟ ܪܫܗ. ܐܥܝܪ ܢܦܫܟ ܚܒܝܒܝ ܢܦܫܝ.] ܪܚܡ ܒܬܘܠܘܬܐ ܡܢܬܐ ܫܡܝܢܝܬܐ
+            ܚܠܝܛܘܬܐ ܕܥܡ ܥܝܪ̈ܝ ܪܘܡܐ. ܠܝܬ ܓܝܪ ܡܕܡ ܕܦܚܡ ܠܗܿ. ܒܐܝܠܝܢ ܕܗܟܢܐ ܐܢܘܢ܆ ܒܗܘܢ ܥܡܪ ܡܫܝܚܐ. </p>
+      </body>
+   </text>
+</TEI>
