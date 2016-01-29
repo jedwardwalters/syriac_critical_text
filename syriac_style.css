@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: EstrangeloEdessa;
+  font-family: "EstrangeloEdessa";
   background-color: #fff;
   padding:50px;
   color:#727272;
@@ -16,11 +16,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-p {
-   font-size: 16px;
-}
-
-ul, ol, table, pre, dl {
+p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
