@@ -1,4 +1,3 @@
-
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
@@ -61,7 +60,7 @@
 }
 
 body {
-  font-family: Estrangelo Edessa;
+  font-family: Garamond, Baskerville
   background-color: #fff;
   padding:50px;
   color:#727272;
@@ -74,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  font-family: Estrangelo Edessa;
+  font-family: EstrangeloEdessa
 }
 
 ul, ol, table, pre, dl {
