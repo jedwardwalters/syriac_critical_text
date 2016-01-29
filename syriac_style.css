@@ -56,7 +56,7 @@
 
 @font-face {
    font-family: EstrangeloEdessa;
-   src: url('https://drive.google.com/open?id=0B88rog5gPWqnb1J6VmotZVVYOVU&authuser=0');
+   src: url(https://drive.google.com/open?id=0B88rog5gPWqnb1J6VmotZVVYOVU&authuser=0);
 }
 
 body {
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-   font-family: EstrangeloEdessa
+   font-family: EstrangeloEdessa;
 }
 
 ul, ol, table, pre, dl {
