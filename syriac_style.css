@@ -112,8 +112,8 @@
 }
 
 @font-face {
-   font-family: EstrangeloEdessa;
-   src: url(https://drive.google.com/open?id=0B88rog5gPWqnb1J6VmotZVVYOVU&authuser=0);
+   font-family: 'EstrangeloEdessa';
+   src: url('syriac_critical_text/SyrCOMEdessa.otf') format('otf');
 }
 
 body {
@@ -134,8 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-<<<<<<< HEAD
-  font-family: EstrangeloEdessa
+  font-family: 'EstrangeloEdessa'
 =======
   font-family: EstrangeloEdessa;
 >>>>>>> origin/gh-pages
