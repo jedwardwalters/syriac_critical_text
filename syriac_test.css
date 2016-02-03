@@ -1,8 +1,8 @@
 @font-face {
-   font-family: "EstrangeloEdessa";
+   font-family: EstrangeloEdessa;
    src: url(https://drive.google.com/open?id=0B88rog5gPWqnb1J6VmotZVVYOVU&authuser=0);
 }
 
 p {
-  font-family: "EstrangeloEdessa";
+  font-family: EstrangeloEdessa;
 }
