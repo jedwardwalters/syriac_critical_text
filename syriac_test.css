@@ -1,9 +1,9 @@
 @font-face {
-   font-family: 'EstrangeloEdessa';
+   font-family: EstrangeloEdessa;
    src: url('syriac_critical_text/SyrCOMEdessa.otf') format('otf');
 }
 
 p {
-   font-family: 'EstrangeloEdessa';
+   font-family: EstrangeloEdessa;
    font-size: x-large;
 }
